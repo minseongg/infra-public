@@ -20,6 +20,7 @@ libncurses5 libtinfo5
 haskell-platform haskell-stack
 nimf nimf-libhangul
 cloc
+graphviz graphviz-dev coinor-cbc
 
 fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
 texlive-full
