@@ -22,6 +22,7 @@ cloc
 graphviz graphviz-dev coinor-cbc
 ruby-mustache
 gperf flex bison
+verilator
 
 fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
 texlive-full
