@@ -33,3 +33,4 @@ libpmemobj-dev libvmem-dev
 
 fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
 texlive-full
+inkscape
