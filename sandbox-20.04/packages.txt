@@ -3,7 +3,7 @@ vim neovim emacs code
 zsh bash-completion tmux
 sudo build-essential m4 gcc clang opam ocaml python3-venv python3-pip python-is-python3 default-jdk nodejs ripgrep
 autoconf automake autotools-dev libtool-bin pkg-config ninja-build
-libgmp-dev libsqlite3-dev zlib1g-dev libmpfr-dev
+libgmp-dev libsqlite3-dev zlib1g-dev libmpfr-dev libglib2.0-dev libpixman-1-dev
 libreadline-dev
 libboost-all-dev
 csmith libcsmith-dev creduce
