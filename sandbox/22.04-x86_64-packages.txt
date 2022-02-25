@@ -8,7 +8,7 @@ libreadline-dev
 libboost-all-dev
 csmith libcsmith-dev creduce
 inetutils-ping inetutils-telnet inetutils-traceroute wget curl
-libssl-dev sshfs
+libssl-dev sshfs sshpass
 universal-ctags cmake
 htop cron
 xclip
